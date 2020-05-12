@@ -276,10 +276,21 @@ h2 em {
   align-items: center;
 }
 
+.footer-button {
+    border: 1px solid #333;
+    font-size: 13.4px;
+    font-weight: 500;
+    border-radius: 5px;
+    display: inline-block;
+    box-shadow: 1px 2px;
+    background-color: #fff;
+    margin: 22px 0;
+}
 
 .footer-button a {
   display: inline-block;
   padding: 10px;
+  margin-left: 0px;
 }
 
 .footer-button:hover {
