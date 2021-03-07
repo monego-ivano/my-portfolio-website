@@ -249,12 +249,14 @@ h2 em {
   transition: all 0.5s;
 }
 
-#counter-proj {
+#counter-proj,
+#air-quality-proj {
   max-width: 100%;
   max-height: 100%;
 }
 
-.first {
+.first,
+.second {
   background-color: rgb(255, 251, 247);
 }
 
